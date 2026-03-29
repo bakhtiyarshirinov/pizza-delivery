@@ -11,7 +11,7 @@ Checkout: Simple form to submit delivery details.
 Responsive: Works on desktop, tablets, and mobile phones. 📱
 
 Tech Stack
-Frontend: React.js / HTML5 / CSS3
+Frontend: React.js / NextJS / Tailwindcss
 
 Backend: Node.js / Express
 
