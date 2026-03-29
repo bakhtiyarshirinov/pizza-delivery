@@ -95,3 +95,4 @@
     @apply bg-background text-foreground;
   }
 }
+/* o vaxti babat oxuyurduq ki, tailwind css-in default olaraq border-width-ini 1px edir. Ona gore de butun elementlere border-border vermisik. Eger border-width-ini default olaraq 0px etmek istesek, onda tailwind.config.js faylinda theme.extend.borderWidth-unu 0px olaraq set etmek lazimdir. Bu zaman border-border class-i border-width-ini 0px edəcəkdir.
